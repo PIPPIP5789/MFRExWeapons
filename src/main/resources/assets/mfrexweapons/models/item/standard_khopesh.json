@@ -1,0 +1,8 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "mfrexweapons:items/standard_khopesh",
+    "layer1": "mfrexweapons:items/standard_khopesh_haft",
+    "layer2": "mfrexweapons:items/standard_khopesh_detail"
+  }
+}
